@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    border: 0;
+}
+div{
+    background: rgba(0, 0, 0, .8);
+    align-content:center ;
+    width: 80%;
+    height: 30px;
+    
+}
